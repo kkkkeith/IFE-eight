@@ -5,7 +5,8 @@ body {
 span {
 	display: inline-block;
 	margin: 5px;
-	width: 40px;
+	padding: 3px;
+	width: auto;
 	height: 30px;
 	line-height: 30px;
 	text-align: center;
