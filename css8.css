@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	padding: 10px;
+}
+span {
+	display: inline-block;
+	margin: 5px;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	color: #fff;
+	background-color: #f00;
+	cursor:pointer;
+}
